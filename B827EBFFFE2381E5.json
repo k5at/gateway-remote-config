@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE2381E5",
+    "servers": [
+      {
+        "server_address": "router.us.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude":32.98223416,
+    "ref_longitude": -96.86554032,
+    "ref_altitude": 238,
+    "contact_email": "herb@hwblair.com",
+    "description": "K5AT 8 Channel Gateway"
+  }
+}
